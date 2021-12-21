@@ -1,0 +1,25 @@
+*{
+    padding-left: 1px;
+}
+#new-todo{
+    margin-top: 10px;
+    display: block;
+    width: 20%;
+    height: 25px;
+    font-size: 15px;
+}
+label{
+    margin-right: 5px;
+}
+button{
+    margin-top: 10px;
+    display: block;
+    width: 12%;
+    height: 36px;
+    font-size: 15px;
+}
+ul li{
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 18px;
+}
